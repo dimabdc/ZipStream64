@@ -1,5 +1,5 @@
 {
-	"name": "brokencube/zipstream64",
+	"name": "dimabdc/zipstream64",
 	"description": "ZipStream is a library for dynamically streaming large dynamic zip files from PHP without writing to the disk at all on the server.",
 	"keywords": ["zip", "stream", "64bit"],
 	"type": "library",
